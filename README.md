@@ -7,7 +7,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://yellow-island-0ab24db00.3.azurestaticapps.net/
-
+**Demo link** - https://youtu.be/aiNxXM0NJgE
 
 ## Features and Functionalities 😃
 
@@ -52,7 +52,7 @@ This is a web based application developed for health related telugu based websit
 ## Tech Stack 💻
 
 - azure healthbot
-- static web app
+- static web apps
 - HTML
 - CSS
 - Bootstrap
