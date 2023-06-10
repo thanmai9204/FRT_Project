@@ -28,6 +28,7 @@ This is a web based application developed for health related telugu based websit
    
 ![Screenshot 2023-06-10 140759](https://github.com/thanmai9204/FRT_Project/assets/112385197/910d9c7c-396a-4f23-bd1e-11f4583fdd3e)!
 
+![Screenshot 2023-06-10 140824](https://github.com/thanmai9204/FRT_Project/assets/112385197/efc83d0f-6851-4397-8301-9df99ac560bb)
 ![Screenshot 2023-06-10 140854](https://github.com/thanmai9204/FRT_Project/assets/112385197/af5b9d90-6936-4ba4-a503-79de069043a3)
 
 
@@ -50,7 +51,8 @@ This is a web based application developed for health related telugu based websit
 
 ## Tech Stack 💻
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- azure healthbot
+- static web app
 - HTML
 - CSS
 - Bootstrap
